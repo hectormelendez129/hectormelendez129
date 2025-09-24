@@ -17,7 +17,6 @@ My overall goal is to create a SkillBridge program that trains Veterans and Acti
 <br>
 
 * 🌍  I'm based in Philadelphia, PA but frequently travel to Raleigh, NC! <br>
-* 🖥️  See my portfolio at [hectormelendez129.github.io/my-portfolio/](http://hectormelendez129.github.io/my-portfolio/) <br>
 * ✉️  To setup an appointment, here is my [Schedule](https://calendly.com/hector-melendez129/30min) <br>
 * 🚀  I'm currently working on a Christmas tree farmer's online presence, [Richardson Tree Company](http://hectormelendez129.github.io/richardson-tree-company/), by creating their website.<br>
 * 🧠  I'm currently learning the C languages: C | C# | C++. It's less complex compared to Java, but somehow more complex at the same time.<br>
@@ -25,7 +24,7 @@ My overall goal is to create a SkillBridge program that trains Veterans and Acti
 * 💬  Ask me about my fleet of drones: DJI minis and Mavics; Parrot Anafi for its AI capabilities; an Autel: RIP 2024; and a tens of homemade drones.
 
 <br>
-My Portfolio: (https://hectormelendez129.github.io/my-portfolio/)
+My Portfolio: [Portfolio](https://hectormelendez129.github.io/my-portfolio/)
 
 My Resume: Site Coming Soon!
 
